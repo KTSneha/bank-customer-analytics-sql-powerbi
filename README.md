@@ -2,9 +2,10 @@
 
 An end-to-end data analytics project built on a 1M+ row real-world Indian banking transaction dataset — from raw, messy CSV to a cleaned relational database, four SQL analysis modules, and an interactive two-page Power BI dashboard.
 
-**Live dashboard screenshots:** see `/Screenshots`
+**Dashboard screenshots:** see `/Screenshots`
 **SQL scripts:** see `/SQL`
-**Power BI file:** see `/Dashboard`
+
+> Note: the Power BI (.pbix) file isn't included in this repo, as it exceeds GitHub's file size limit due to the embedded dataset. The screenshots below show the full dashboard; the `.pbix` is available on request.
 
 ---
 
